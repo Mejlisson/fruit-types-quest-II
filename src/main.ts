@@ -1,5 +1,5 @@
 import "./styles.css";
+import typescriptLogo from './typescript.svg'
+import viteLogo from '/vite.svg'
+import { setupCounter } from './counter.ts'
 
-console.log("Welcome to fruit-types-quest-II, please fix the code!");
-
-// skriv ett program här nedan som testar alla de funktioner som finns i fruits/utils

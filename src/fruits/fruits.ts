@@ -1,3 +1,12 @@
+export type Fruit = {
+	name: string;
+	icon: string;
+	color: string;
+	category: string;
+}
+
+
+
 export const fruits = [
 	{
 		name: "grape",
