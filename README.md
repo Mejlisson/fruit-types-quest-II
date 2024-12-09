@@ -4,7 +4,7 @@ Another student demo / assignment
 
 # Arbetsordning
 
-1. Gör en fork
+1. Gör en fork - check
 2. Klona ner din fork
 3. Kom ihåg npm install
 4. Starta vscode och npm run dev
